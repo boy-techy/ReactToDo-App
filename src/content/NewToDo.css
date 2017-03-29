@@ -1,0 +1,30 @@
+.todoContainer{
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid;
+}
+#newToDo{
+    padding: 8px;
+}
+#newToDo input{
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: 20px;
+    font-size: 15px;
+
+}
+#newToDo button{
+    display: block;
+    margin-bottom: 15px;
+    height: 25px;
+    font-size: 15px;
+    float: right;
+    border: 1px;
+    border-style: inset;
+    background-color: green;
+}
+
+
+
+
